@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan</h1>
-<h3 align="center">🚀 Aspiring AI Engineer | Building Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Problem+Solver&center=true&width=500&height=50">
+</p>
+
+<h3 align="center">🚀 Building Intelligent Systems with Code & Creativity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishnuvardhan4518&label=Profile%20views&color=0e75b6&style=flat" />
@@ -7,24 +12,25 @@
 
 ---
 
-## 👋
+## 👋 Welcome
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
 ---
 
 ## 💡 About Me
 - 🎯 Passionate about **Artificial Intelligence & Machine Learning**
-- 💻 Strong foundation in **Python, Web Development & Problem Solving**
-- 🌱 Currently learning **Deep Learning & Real-world AI Applications**
-- 📫 Reach me at: **vs9844607@gmail.com**
+- 💻 Skilled in **Python, Web Development & Problem Solving**
+- 🧠 Exploring **Deep Learning, NLP & Real-world AI Systems**
+- 🚀 Goal: To become a **high-impact AI Engineer**
+- 📫 Contact: **vs9844607@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/vishnu vardhan"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/vishnu___saini"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://www.codechef.com/users/vishnu_saini"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="40"/></a>
@@ -35,55 +41,51 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,js" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask" />
-</p>
-
-### 📊 Data & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhan4518&layout=compact" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnuvardhan4518&show_icons=true" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,flask,mongodb,mysql,tensorflow,git,docker,aws" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-- 🤖 AI Project – Add your best ML project here
-- 🌐 Web App – Add your Flask/Django project
-- 📊 Data Analysis – Add your analytics project
+✨ *(Add your best work here — very important)*  
+- 🤖 **AI Project** – (e.g., Face Recognition / Chatbot)
+- 📊 **Data Analysis Project** – (e.g., Sales Insights Dashboard)
+- 🌐 **Web Application** – (Flask/Django project)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuvardhan4518&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuvardhan4518&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhan4518&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+- Deep Learning (CNN, NLP)
+- System Design Basics
+- Advanced Python
+
+---
+
+## 🏆 Achievements
+- 💪 Solving problems on LeetCode & CodeChef
+- 📈 Consistent GitHub contributions
+- 🚀 Building AI-based projects
 
 ---
 
 ## ✨ Quote
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill
+> "Intelligence is not artificial when it's built with purpose."
 
 ---
