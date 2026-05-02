@@ -36,7 +36,7 @@
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/vishnu vardhan"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/vishnu___saini"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://instagram.com/vishnu____saini"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://www.codechef.com/users/vishnu_saini"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="40"/></a>
 <a href="https://www.leetcode.com/vishnuvardhan892"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
