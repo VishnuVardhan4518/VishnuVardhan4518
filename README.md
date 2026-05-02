@@ -12,10 +12,14 @@
 
 ---
 
-## 👋 Welcome
+## ⚡
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <b>"Consistency turns code into impact."</b>
 </p>
 
 ---
@@ -40,7 +44,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css,flask,mongodb,mysql,tensorflow,git,docker,aws" />
 </p>
@@ -49,9 +52,9 @@
 
 ## 🚀 Featured Projects
 ✨ *(Add your best work here — very important)*  
-- 🤖 **AI Project** – (e.g., Face Recognition / Chatbot)
-- 📊 **Data Analysis Project** – (e.g., Sales Insights Dashboard)
-- 🌐 **Web Application** – (Flask/Django project)
+- 🤖 AI Project – Face Recognition / Chatbot  
+- 📊 Data Analysis – Dashboard / Insights Project  
+- 🌐 Web App – Flask/Django Application  
 
 ---
 
@@ -82,10 +85,5 @@
 - 💪 Solving problems on LeetCode & CodeChef
 - 📈 Consistent GitHub contributions
 - 🚀 Building AI-based projects
-
----
-
-## ✨ Quote
-> "Intelligence is not artificial when it's built with purpose."
 
 ---
